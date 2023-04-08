@@ -18,7 +18,7 @@
      height="300"></div>
 </p>
 
- 
+
 Nintendo, es la empresa desarrolladora del popular personaje de videojuegos **Mario**, sin embargo, todo empezó en el año 1889, cuando Fusajiro Yamauchi fundó una pequeña empresa llamada Nintendo Koppai para fabricar tarjetas de juego japonesas llamadas "hanafuda". El negocio fue sobre ruedas durante muchas décadas y la empresa siguió siendo uno de los principales productores de hanafuda del mundo.
 
 Sin embargo, cuando Hiroshi, el nieto de Yamauchi, se hizo cargo del negocio en 1956, buscó formas de que la empresa pudiera diversificar sus fuentes de ingresos. Invirtió en muchas cosas que no siempre daban beneficios, como los "hoteles del amor", que atendían a parejas enamoradas, otra de paquetes de arroz y hasta una empresa de taxis.
@@ -122,27 +122,62 @@ Durante el transcurso del juego, Mario y Luigi se enteran de que el verdadero ob
 
 
 ## Diseño de personaje
-El primer sprite de Link en The Legend of Zelda fue hecho por Takashi Tezuka, que tomó inspiración del personaje Peter Pan en su adaptación homónima hecha por Disney, de la cual se tomó el color verde para la ropa de Link para hacer que el personaje sea reconocible. Junto a su diseño caricaturesco, la apariencia de Link toma una aparente inspiración de los elfos o duendes, por el hecho de tener una muy baja estatura y sus orejas características. El cabello de Link fue castaño- negro en los primeros videojuegos de la saga, debido a las limitaciones de colores en la consola. A partir de a Link to the Past, su cabello fue representado como rubio fuerte y su color de ojos fue de color azul oscuro.
+## 
 
-En el desarrollo de Ocarina of Time, Link tendría dos diseños de personaje: uno para su niñez, otro para su etapa adulta. Fue diseñado por Yusuke Nakano, (diseñador y artista de Ocarina of Time), quien tomó de referencia a "un actor bastante famoso de Hollywood" para el diseño y rostro de Link adulto en Ocarina of Time. Aunque Nakano no mencionó el nombre del actor, cuenta que en los 90's durante el desarrollo del juego, este actor era "muy famoso y reconocido por todos". Muchos fans asumen que se trata del actor Leonardo Dicaprio, debido al éxito mundial que fue su actuación en la película Titanic, estrenada un año antes que Ocarina of Time. Alternativamente, otros fans asumen que podría tratarse de actores populares de la época de los 1980's y 1990's como River Phoenix, Tom Cruise y Brad Pitt. Cerca de esos tiempos, Tom Cruise fue el protagonista de la película Legend en 1985, de la cual muchos fans consideran que Ocarina of Time tomó inspiración para su historia, incluyendo el evidente hecho que su papel protagónico lucía similar al diseño actual de Link. Por otro lado, además de la similitud física con el diseño del personaje de Link adulto, River Phoenix fue la inspiración para el diseño de otro personaje de videojuegos, Squall Leonhart de Final Fantasy VIII; lo que deja una pista del impacto que dejó su imagen y carrera para otros artistas/ ilustradores.
+<p class="text-justify"> En los primeros años de su creación no eran tiempos fáciles para el desarrollo de software, y menos aún cuando la interfaz gráfica era la clave absoluta. Sobre todo tras una crisis debida a la gran cantidad de consolas y a la pérdida de confianza de los compradores. Los creadores de Mario Bross contaron como fueron los cimientos del desarrollo del juego, ya que estos, se encuentran en toneladas de papel gráfico en el que dibujaban escenarios, jugadas y personajes.  </p>
 
+Es fácil ver que los elementos clave de los escenarios son la tierra, el cielo y el mar, aunque los interiores terrestres también suelen tener bastante presencia. El cielo, junto con los otros dos que hemos ya mencionado (mar y tierra), son los tres conceptos clave que Tekuza menciona como punto de partida para el diseño de los escenarios y las pantallas cuando Super Mario Bros era aún un zigoto, aunque lo curioso es cómo se empezaron a plasmar esos diseños: dibujándolos a mano alzada en papel. Y no fue cosa de un guión o unos bocetos previos, era el material necesario para que el videojuego se pudiese desarrollar.
 
+<img src="../img/pixel1.png"
+     width="350" 
+     height="280">
 
+##### Del papel al ordenador (y la importancia de minimizar las correcciones)
 
+Primero había que decidir la dinámica y diseño del juego, las pantallas, los niveles, etc. No contaban con herramientas informáticas y era todo a mano: se diseñaban las pantallas y luego se trasladaba todo a la base de datos.
+Ahí es donde entraba el papel gráfico. Primero esbozaban las posibles situaciones y personajes a modo de storyboard en una película, y posteriormente usaban el papel gráfico para hacer una especie de plantilla de lo que luego los programadores "traducirían" a los ocho bits. 
 
-
-Durante la creación de Wind Waker, el diseño de Link tomó una apariencia mucho más caricaturesca al estar inspirada en la película "El Príncipe y el dragón de ocho cabezas" de 1963. Originalmente, existirían diferentes etapas de crecimiento físico para él, teniendo una apariencia de niño, adolescente y luego de adulto. Sin embargo, en el videojuego solo se presenta a su apariencia de niño.
-
-<figure>
-
-<img src="../img/zeldaArtConcepto.jpg"
+<img src="../img/pixel2.png"
      width="250" 
-     height="180">
-<figcaption>Concept Art de Link en Wind Waker</figcaption>
-</figure>
-<br>
+     height="380">
 
-</br>
-Años después, en el desarrollo de Twilight Princess se tuvo la idea de diseñar a un Link adulto y maduro, sin embargo, esto fue descartado por su apariencia juvenil y adolescente. En el videojuego más reciente, Breath of the Wild, se diseñó a Link con una apariencia intencionalmente andrógina y de "género-neutro", para que tanto jugadores hombres y mujeres pudiesen identificarse más con el personaje. Eiji Aounuma ha declarado que desde Ocarina of Time, siempre quiso que Link fuese un "personaje género neutral", es decir, que su diseño y acciones como héroe se acoplen normalmente ambas audiencias femeninas y masculinas sin perder el sentimiento de inmersión en la jugabilidad. 
-=======
+
+Estos bocetos (debidamente coloreados) constituían la materia prima de los programadores y la suya no era tarea fácil. De hecho, en muchas ocasiones no podían ver el resultado digitalizado hasta el día siguiente.
+
+Miyamoto comenta una parte importante del proceso: las revisiones y correcciones. Lo que muestra para ejemplificarlo de manera gráfica son estos bocetos corregidos al más puro estilo profesor, con flechas rojas sobre los dibujos que en algunas ocasiones lo dejaban todo bastante caótico.
+
+<img src="../img/pixel3.png"
+     width="450" 
+     height="300">
+
+Fue por eso que esta parte del diseño a mano también tuvo su gran actualización. Con el fin de que esto resultase más claro a los programadores empezaron a usar papel cebolla, de modo que las correcciones se trazaban en él y podía verse sin problemas el boceto original. Eso sí, los programadores llegaron a advertirles de que no iban a aceptar más correcciones dado que cada una implicaba horas y horas de trabajo.
+
+<img src="../img/pixel4.png"
+     width="450" 
+     height="300">
+
+Otra curiosidad son los pequeños tutoriales que el juego iba incluyendo a modo de jugada. Lo explica Miyamoto con la pantalla inicial del Super Mario (la 1-1), comentando que muchas veces se diseñaban escenarios y jugadas bastante difíciles (que son las que Miyamoto querría jugar) para luego rebajarlas un poco. Por ejemplo, una de las primeras jugadas implica que saltar para obtener una seta nos haga rebotar y caer pronto al suelo mientras llega un Goomba, algo totalmente buscado como explica el creativo.
+
+#### Del papel al "Super Mario Maker", manteniendo el fundamento. 
+
+Miyamoto y Tekuza reúnen estos papeles que aún conservan y cuentan la historia a colación del 'Super Mario Maker', dado que la idea era que crear un mundo de Mario fuese algo sencillo e intuitivo, más parecido a la programación orientada a objetos que a desarrollo de código puro y duro para que cualquiera pudiese diseñar un mod. O, como dice Miyamoto, que crear un juego sea un juego.
+
+<img src="../img/pixel5.png"
+     width="350" 
+     height="200">
+
+Para hacer la primera gran aventura de Mario, el equipo de Nintendo, con Shigeru Miyamoto a la cabeza, tuvo que diseñar cada nivel dibujándolo en un papel cuadriculado. Así, empezaron a plantear ideas de habilidades y power-ups para el fontanero. Entre las ideas, propusieron que volara subiéndose en nubes y disparando bolas de fuego. Es precisamente con esa idea con la que nace uno de los primeros bocetos de Super Mario Bros e incluso del propio Bowser:
+
+<img src="../img/pixel6.png"
+     width="350" 
+     height="280">
+
+<img src="../img/pixel7.png"
+     width="350" 
+     height="280">
+
+<p>
+<div align="center"><img src="../img/pixel8.png" width="350" 
+     height="280"></div> <figcaption><div align="center"> Evolución de Mario a tráves del tiempo</figcaption>
+<
 
