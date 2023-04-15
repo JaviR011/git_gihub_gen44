@@ -1,15 +1,14 @@
 # Concepto y creación
+
 <p>
 
 </p>
-
 
 <br>
 
 </br>
 
 ## Creación
-
 
 ### Nintendo.
 
@@ -19,32 +18,27 @@
 </p>
 
 
-## Diseño de personaje
-Nintendo desveló muchos datos inéditos durante el evento E3 2015. El creador del famoso videojuego lanzado en 1985 mostró cómo se planeó cada movimiento con dibujos a mano sobre un papel cuadriculado. 
-Aprovechando el trigésimo aniversario del Super Mario Bros., los desarrolladores de Nintendo mostraron el proceso creativo tras el diseño de los primeros niveles del famoso videojuego.
-
-<figure>
-
-<img src="https://github.com/JaviR011/git_gihub_gen44/blob/master/img/BosquejoMario2.png"
-     width="250" 
-     height="180">
-<figcaption>Concept Art de Super Mario Bros</figcaption>
-</figure>
-
-Este consistía en dibujar todos los elementos de cada etapa (terreno, bloques, villanos) sobre una hoja cuadriculada. Los diseñadores incluían después modificaciones en papel para calcar, ya que las limitaciones en el desarrollo de código de la época no permitían cambios una vez programado el nivel.
+Estos bocetos (debidamente coloreados) constituían la materia prima de los programadores y la suya no era tarea fácil. De hecho, en muchas ocasiones no podían ver el resultado digitalizado hasta el día siguiente.
 
 
-<figure>
 
-<img src="https://github.com/JaviR011/git_gihub_gen44/blob/master/img/BosquejoMario1.png"
-     width="250" 
-     height="180">
-<figcaption>Concept Art de Super Mario Bros</figcaption>
-</figure>
-<br>
+Miyamoto y Tekuza reúnen estos papeles que aún conservan y cuentan la historia a colación del 'Super Mario Maker', dado que la idea era que crear un mundo de Mario fuese algo sencillo e intuitivo, más parecido a la programación orientada a objetos que a desarrollo de código puro y duro para que cualquiera pudiese diseñar un mod. O, como dice Miyamoto, que crear un juego sea un juego.
 
-</br>
-Shigeru Miyamoto, el "padre" de Super Mario, reconoció que sus diseños se basaban en el recorrido que a él le gustaría jugar y se convertían finalmente en el primer nivel del segundo mundo, ya que el primer nivel exigía un grado de dificultad muy bajo al servir de tutorial para los nuevos jugadores.
-Este primitivo método de diseño también habría servido como inspiración para la creación de Super Mario Maker, una herramienta para crear niveles personalizados con la estética y las mecánicas de los primeros juegos.
-=======
+<div align="center"><img src="../img/pixel5.png"
+     width="350" 
+     height="200">
 
+Para hacer la primera gran aventura de Mario, el equipo de Nintendo, con Shigeru Miyamoto a la cabeza, tuvo que diseñar cada nivel dibujándolo en un papel cuadriculado. Así, empezaron a plantear ideas de habilidades y power-ups para el fontanero. Entre las ideas, propusieron que volara subiéndose en nubes y disparando bolas de fuego. Es precisamente con esa idea con la que nace uno de los primeros bocetos de Super Mario Bros e incluso del propio Bowser:
+
+<div align="center"><img src="../img/pixel6.png"
+     width="350" 
+     height="280">
+
+<div align="center"><img src="../img/pixel7.png"
+     width="350" 
+     height="280">
+
+<p>
+<div align="center"><img src="../img/pixel8.png" width="350" 
+     height="280"></div> <figcaption><div align="center"> Evolución de Mario a tráves del tiempo</figcaption>
+<
